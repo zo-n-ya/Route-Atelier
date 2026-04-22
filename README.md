@@ -12,7 +12,7 @@ It replaces manual spreadsheet-based workflows by providing a centralized system
 
 Example workflow: selecting warehouses, running analysis, and viewing KPI results.
 
-![demo](./screenshots/demo.gif)
+![demo](./demo.gif)
 
 ---
 
@@ -98,4 +98,24 @@ Key metrics:
 
 ---
 
-## Project Structure
+## How It Works
+
+1. User selects:
+   - warehouses
+   - date range
+   - query mode
+
+2. System:
+   - retrieves dispatch history
+   - filters valid batches
+   - fetches real-time delivery data
+
+3. Aggregation:
+   - warehouse-level metrics
+   - DSP breakdown
+   - driver-level statistics
+
+4. Output:
+   - KPI dashboard
+   - tables and charts
+   - Excel export
