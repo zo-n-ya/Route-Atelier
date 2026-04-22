@@ -10,8 +10,6 @@ It replaces manual spreadsheet-based workflows by providing a centralized system
 
 ## Demo
 
-## Demo
-
 Example workflow: selecting warehouses, running analysis, and viewing KPI results.
 
 ![demo](./demo.gif)
